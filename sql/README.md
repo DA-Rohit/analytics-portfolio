@@ -1,1 +1,1 @@
-SQL practice files.
+SQL files.
