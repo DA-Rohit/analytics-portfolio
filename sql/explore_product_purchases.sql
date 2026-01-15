@@ -9,7 +9,7 @@ SELECT
   p.v2ProductName,
   p.v2ProductCategory,
   p.productQuantity,
-  p.productRevenue / 1000000 AS product_revenue_usd
+  p.productRevenue / 1000000 AS product_revenue_usd  -- converted micro usd to usd
 
 FROM `bigquery-public-data.google_analytics_sample.ga_sessions_*`,
 UNNEST(hits) AS h,
