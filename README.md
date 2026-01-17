@@ -14,7 +14,7 @@ SQL (BigQuery) was used to extract and aggregate session-level and product-level
 ## Interactive Report Walkthrough (40s)
 A short walkthrough demonstrating report interactivity, including month, device, and product category slicers across both report pages.
 
-    ▶ Watch the walkthrough (unlisted): https://youtu.be/HSm7gUBOiBo
+    ▶ Watch the walkthrough (unlisted): [YouTube link](https://youtu.be/HSm7gUBOiBo)
 
 ## Key Insights
 
